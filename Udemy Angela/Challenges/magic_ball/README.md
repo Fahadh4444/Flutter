@@ -1,3 +1,3 @@
-## Challenge is to make Personal Card App as shown below
+## Challenge is to make Magic Ball App as shown below
 
 ![Magic Ball App](./magicBall.jpeg)
