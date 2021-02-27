@@ -1,3 +1,3 @@
-## Challenge is to make Personal Card App as shown below
+## Challenge is to make Dice game App as shown below
 
 ![Dice Game App](./diceGame.jpeg)
